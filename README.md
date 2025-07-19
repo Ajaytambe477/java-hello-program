@@ -1,8 +1,2 @@
 # java-hello-program
-hello world
-hello
-this is test program 
-welcome
-helo 
-v
-fgdbbfbf
+hello world program is only for test purpose...............
